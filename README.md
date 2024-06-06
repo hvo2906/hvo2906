@@ -5,7 +5,7 @@
 - 📫 How to reach me: pqhoangvo@live.com
 - ⚡ Fun fact: I have wide range of interested. Sometimes it leads to distraction, but most of the time it brought more happiness and experiences into my life. Learn how to code is one of that happy outcome.
 - Please explore my projects on my github. I'd be very happy if you find it useful and eager to have your feedbacks. Thanks in advance!
-- 1st Project: ShopeeVN orders export - It helps you export all your Shopee Vietnam orders to CSV file to analyze your spending or keep track of financial health. https://github.com/hvo2906/shopee-order-export
+  - **1st Project**: ShopeeVN orders export - It helps you export all your Shopee Vietnam orders to CSV file to analyze your spending or keep track of financial health. https://github.com/hvo2906/shopee-order-export
 
   
 <!---
